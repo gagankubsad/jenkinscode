@@ -1,1 +1,1 @@
-echo "dome fot jenkins with git" >> sample.txt
+echo "demo for jenkins with git" >> sample.txt
