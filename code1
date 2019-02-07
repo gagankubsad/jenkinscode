@@ -1,1 +1,1 @@
-echo "demo for jenkins with git" >> sample.txt
+echo "demo  git" >> demo.txt
