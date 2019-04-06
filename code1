@@ -1,1 +1,1 @@
-echo "trigger1" >> demo.txt
+echo "trigger12345" >> demo.txt
